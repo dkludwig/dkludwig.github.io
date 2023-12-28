@@ -1,50 +1,65 @@
-- caption: ur moms a hoe
-  image: /uploads/25.jpg
+# --------------------------------------------------------------
+#                  ATTENTION STUPIDOS:
+# This file determines the order of the photos, specifically
+#                     TOP = LATEST
+# So if you want to add a new photo, all ya gotta do is add
+# a new entry at the top of the list (no need to scroll at all).
+# 
+# The entry must be of form:
+#   - caption: <put words here>
+#     image: /uploads/<photo-name>.<ext>
+# 
+# The photo path must match the name of the newest photo
+# you uploaded (into the uploads folder)
+# --------------------------------------------------------------
+
+- caption: perinatal
+  image: /uploads/perinatal.jpg
 - caption: Butterfly - Auckland, NZ
-  image: /uploads/24.jpg
+  image: /uploads/butterfly.jpg
 - caption: Frog - ZA
-  image: /uploads/23.jpg
+  image: /uploads/frog.jpg
 - caption: Bear - JA
-  image: /uploads/22.jpg
+  image: /uploads/bear.jpg
 - caption: Monkey - ID
-  image: /uploads/21.jpg
+  image: /uploads/monkey.jpg
 - caption: Gorilla - Nelson, NZ
-  image: /uploads/20.jpg
+  image: /uploads/gorilla.jpg
 - caption: Fox - Moeraki, NZ
-  image: /uploads/19.jpg
+  image: /uploads/fox.jpg
 - caption: Eagle - Canmore, CA
-  image: /uploads/18.jpg
+  image: /uploads/eagle.jpg
 - caption: Lizard - San Francisco, US
-  image: /uploads/17.jpg
+  image: /uploads/lizard.jpg
 - caption: Elephant - New York, US
-  image: /uploads/16.jpg
+  image: /uploads/elephant.jpg
 - caption: Donkey - Tahoe, US
-  image: /uploads/15.jpg
+  image: /uploads/donkey.jpg
 - caption: Turtle - New York, US
-  image: /uploads/14.jpg
+  image: /uploads/turtle.jpg
 - caption: Monkey - Canmore, CA
-  image: /uploads/13.jpg
+  image: /uploads/monkey.jpg
 - caption: Cow - Mt Cook, NZ
-  image: /uploads/12.jpg
+  image: /uploads/cow.jpg
 - caption: Pig - Reykjavik, IS
-  image: /uploads/11.jpg
+  image: /uploads/pig.jpg
 - caption: Tiger - Montreal, CA
-  image: /uploads/10.jpg
+  image: /uploads/tiger.jpg
 - caption: Pig - Bangkok, TH
-  image: /uploads/9.jpg
+  image: /uploads/pig.jpg
 - caption: Peacock - Seattle, US
-  image: /uploads/8.jpg
+  image: /uploads/peacock.jpg
 - caption: Parrot - Queenstown, NZ
-  image: /uploads/7.jpg
+  image: /uploads/parrot.jpg
 - caption: Fox - San Diego, US
-  image: /uploads/6.jpg
+  image: /uploads/fox.jpg
 - caption: Zebra - Vegas, US
-  image: /uploads/5.jpg
+  image: /uploads/zebra.jpg
 - caption: Kingfisher - London, GB
-  image: /uploads/4.jpg
+  image: /uploads/kingfisher.jpg
 - caption: Penguin - Mexico City, MX
-  image: /uploads/3.jpg
+  image: /uploads/penguin.jpg
 - caption: Giraffe - Wellington, NZ
-  image: /uploads/2.jpg
+  image: /uploads/giraffe.jpg
 - caption: Flamingo - San Jose, US
-  image: /uploads/1.jpg
+  image: /uploads/flamingo.jpg
