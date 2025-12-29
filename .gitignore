@@ -1,4 +1,8 @@
-_site/
-.sass-cache/
-.jekyll-metadata
-cache/
+# Hugo build output
+public/
+resources/_gen/
+
+# Hugo caches
+.hugo_build.lock
+
+CLAUDE.md
